@@ -84,13 +84,13 @@ Para a análise inicial, foram considerados:
 **1. Clone o repositório:**
 
 ```bash
-git clone https://github.com/leticiaokano/GS_Citizen_Assist_AI_DSA.git
+git clone https://github.com/leticiaokano/GS_2026.2_SERS.git
 ```
 
 **2. Entre na pasta do projeto:**
 
 ```bash
-cd Citizen-Assist-AI
+cd SERS_GS
 ```
 
 **3. Execute o programa:**
