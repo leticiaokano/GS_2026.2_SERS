@@ -1,4 +1,4 @@
-# NOME PROJETO (MUDAR)
+# EcoLuz
 
 <p align="center">
   <strong>Global Solution 2026 | Soluções em Energias Renováveis e Sustentável</strong>
@@ -79,9 +79,25 @@ Para a análise inicial, foram considerados:
 *Tarifa Social de Energia Elétrica:* benefício destinado às famílias que atendem aos critérios estabelecidos pelo governo, podendo reduzir os gastos com energia.
 
 
-## Como executar?
-xxx
+## Como executar o projeto
 
+**1. Clone o repositório:**
+
+```bash
+git clone https://github.com/leticiaokano/GS_Citizen_Assist_AI_DSA.git
+```
+
+**2. Entre na pasta do projeto:**
+
+```bash
+cd Citizen-Assist-AI
+```
+
+**3. Execute o programa:**
+
+```bash
+python main.py
+```
 ## Fontes de pesquisa
 
 [Tarifas de energia elétrica](https://www.enel.com.br/pt-saopaulo/Para_Voce/tarifa-energia-eletrica.html) 
